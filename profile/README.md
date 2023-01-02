@@ -8,11 +8,15 @@
 </p>
 
 [![Bump.sh](https://img.shields.io/badge/Bump.sh-https://bump.sh-025fd7.svg)](https://bump.sh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@bump_sh-lightgray.svg)](https://www.linkedin.com/company/bump-sh)
-![Twitter Follow](https://img.shields.io/twitter/follow/bump_hq?style=social)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109307599957352322?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/Bump_sh?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCefmjw--xYUL8I9feD4ZPpg?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@bump_sh-blue)](https://www.linkedin.com/company/bump-sh)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-@bump_hq-blue.svg)]
+(https://twitter.com/bump_hq)
+[![Mastodon Follow](https://img.shields.io/badge/Mastodon-@bump_hq-blue.svg)]
+(https://fosstodon.org/@Bump_hq)
+[![Reddit Follow](https://img.shields.io/badge/Reddit-@bump_hq-blue.svg)]
+(https://www.reddit.com/r/Bump_sh)
+[![YouTube Follow](https://img.shields.io/badge/Youtube-@bump_hq-blue.svg)]
+(https://www.youtube.com/channel/UCefmjw--xYUL8I9feD4ZPpg)
 
 Bump allows you to easily **generate your API documentation and API changelog**.
 
