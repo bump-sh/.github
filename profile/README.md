@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://help.bump.sh/">Help</a> |
+  <a href="https://docs.bump.sh/help/">Help</a> |
   <a href="https://bump.sh/users/sign_up">Sign up</a>
 </p>
 
@@ -20,6 +20,6 @@ From an [OpenAPI](https://spec.openapis.org/oas/latest.html) or [AsyncAPI](https
 
 Share a link to your documentation with your API consumers and help them to never miss an API change again. They will have the possibility to **track API structural changes** if they subscribe by email. Once a week, subscribers will receive a changelog digest of your documentation if your API has changed. Curious? Here is the API [documentation changelog](https://developers.bump.sh/changes) of our own API.
 
-To make the most out of Bump.sh, we suggest integrating our tool in your development process. We offer a [Command Line Interface](https://github.com/bump-sh/cli/blob/master/package.json) and [Continuous Integration](https://help.bump.sh/continuous-integration) examples to let you: view API diff during code review thanks to our [Github Action](https://github.com/bump-sh/github-action), Bump.sh will automatically **comment your pull requests with changes digest**, then once merged we will **deploy your changes** directly to your documentation page.
+To make the most out of Bump.sh, we suggest integrating our tool in your development process. We offer a [Command Line Interface](https://github.com/bump-sh/cli/blob/master/package.json) and [Continuous Integration](https://docs.bump.sh/help/continuous-integration/) examples to let you: view API diff during code review thanks to our [Github Action](https://github.com/bump-sh/github-action), Bump.sh will automatically **comment your pull requests with changes digest**, then once merged we will **deploy your changes** directly to your documentation page.
 
 If you work in a multiple services environment and have many different APIs, we got you covered. You can organize and mix your OpenAPI and AsyncAPI based documentations in a developer Hub. You will thus have **all of your APIs listed in one place**. Check our [demo “Train company” hub](https://demo.bump.sh/) for a live example.
