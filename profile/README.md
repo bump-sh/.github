@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="20%" src="https://bump.sh/icon-default-large.png" />
+  <img width="20%" src="https://bump.sh/icon-default-maskable-large.png" />
 </p>
 
 <p align="center">
